@@ -1,0 +1,10 @@
+{'_id': 'Las Vegas', 'count': 29}
+{'_id': 'Houston', 'count': 22}
+{'_id': 'San Antonio', 'count': 14}
+{'_id': 'Orlando', 'count': 13}
+{'_id': 'Los Angeles', 'count': 12}
+{'_id': 'Dallas', 'count': 12}
+{'_id': 'Atlanta', 'count': 10}
+{'_id': 'Jacksonville', 'count': 9}
+{'_id': 'San Francisco', 'count': 9}
+{'_id': 'Minneapolis', 'count': 8}

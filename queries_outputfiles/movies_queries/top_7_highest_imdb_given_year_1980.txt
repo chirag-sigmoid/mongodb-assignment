@@ -1,0 +1,7 @@
+{'title': 'Cosmos', 'year': 1980, 'imdb': {'rating': 9.3}}
+{'title': 'Hollywood', 'year': 1980, 'imdb': {'rating': 9.1}}
+{'title': "Who's Singin' Over There?", 'year': 1980, 'imdb': {'rating': 8.9}}
+{'imdb': {'rating': 8.8}, 'year': 1980, 'title': 'Star Wars: Episode V - The Empire Strikes Back'}
+{'title': 'Berlin Alexanderplatz', 'year': 1980, 'imdb': {'rating': 8.7}}
+{'title': 'Heerak Rajar Deshe', 'year': 1980, 'imdb': {'rating': 8.5}}
+{'imdb': {'rating': 8.4}, 'year': 1980, 'title': 'The Shining'}

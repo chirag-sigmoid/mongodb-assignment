@@ -1,0 +1,10 @@
+{'_id': {'director_name': 'Damiano Damiani'}, 'No_of_movies': 2}
+{'_id': {'director_name': 'Jack Gold'}, 'No_of_movies': 2}
+{'_id': {'director_name': 'Stanley Donen'}, 'No_of_movies': 2}
+{'_id': {'director_name': 'Claudia Weill'}, 'No_of_movies': 2}
+{'_id': {'director_name': 'Bruce Beresford'}, 'No_of_movies': 2}
+{'_id': {'director_name': 'John Barry'}, 'No_of_movies': 2}
+{'_id': {'director_name': 'Stuart Rosenberg'}, 'No_of_movies': 1}
+{'_id': {'director_name': 'Don Taylor'}, 'No_of_movies': 1}
+{'_id': {'director_name': 'John Mackenzie'}, 'No_of_movies': 1}
+{'_id': {'director_name': 'Clive Donner'}, 'No_of_movies': 1}

@@ -1,0 +1,10 @@
+{'_id': {'actor_name': 'Gèrard Depardieu'}, 'No_of_movies': 68}
+{'_id': {'actor_name': 'Robert De Niro'}, 'No_of_movies': 60}
+{'_id': {'actor_name': 'Michael Caine'}, 'No_of_movies': 53}
+{'_id': {'actor_name': 'Marcello Mastroianni'}, 'No_of_movies': 50}
+{'_id': {'actor_name': 'Bruce Willis'}, 'No_of_movies': 49}
+{'_id': {'actor_name': 'Max von Sydow'}, 'No_of_movies': 49}
+{'_id': {'actor_name': 'Morgan Freeman'}, 'No_of_movies': 48}
+{'_id': {'actor_name': 'Samuel L. Jackson'}, 'No_of_movies': 48}
+{'_id': {'actor_name': 'Christopher Plummer'}, 'No_of_movies': 47}
+{'_id': {'actor_name': 'Gene Hackman'}, 'No_of_movies': 46}

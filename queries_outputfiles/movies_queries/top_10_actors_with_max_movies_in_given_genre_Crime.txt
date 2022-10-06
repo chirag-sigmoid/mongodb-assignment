@@ -1,0 +1,10 @@
+{'_id': {'actor_name': 'Robert De Niro'}, 'No_of_movies': 25}
+{'_id': {'actor_name': 'Bruce Willis'}, 'No_of_movies': 21}
+{'_id': {'actor_name': 'Samuel L. Jackson'}, 'No_of_movies': 21}
+{'_id': {'actor_name': 'Denzel Washington'}, 'No_of_movies': 17}
+{'_id': {'actor_name': 'Helen Mirren'}, 'No_of_movies': 16}
+{'_id': {'actor_name': 'James Woods'}, 'No_of_movies': 16}
+{'_id': {'actor_name': 'Ray Liotta'}, 'No_of_movies': 15}
+{'_id': {'actor_name': 'Jackie Chan'}, 'No_of_movies': 15}
+{'_id': {'actor_name': 'Al Pacino'}, 'No_of_movies': 15}
+{'_id': {'actor_name': 'Jason Statham'}, 'No_of_movies': 14}

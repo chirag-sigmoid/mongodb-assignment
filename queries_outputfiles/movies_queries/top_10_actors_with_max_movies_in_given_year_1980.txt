@@ -1,0 +1,10 @@
+{'_id': {'actor_name': 'Harvey Keitel'}, 'No_of_movies': 4}
+{'_id': {'actor_name': 'Jack Thompson'}, 'No_of_movies': 3}
+{'_id': {'actor_name': 'Kirk Douglas'}, 'No_of_movies': 3}
+{'_id': {'actor_name': 'Ricky Schroder'}, 'No_of_movies': 3}
+{'_id': {'actor_name': 'Gèrard Depardieu'}, 'No_of_movies': 3}
+{'_id': {'actor_name': 'Jamie Lee Curtis'}, 'No_of_movies': 3}
+{'_id': {'actor_name': 'Charles Grodin'}, 'No_of_movies': 3}
+{'_id': {'actor_name': 'Ned Beatty'}, 'No_of_movies': 3}
+{'_id': {'actor_name': 'Scatman Crothers'}, 'No_of_movies': 2}
+{'_id': {'actor_name': 'Jason Robards'}, 'No_of_movies': 2}

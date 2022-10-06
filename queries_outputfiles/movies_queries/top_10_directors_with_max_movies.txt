@@ -1,0 +1,10 @@
+{'_id': {'director_name': 'Woody Allen'}, 'No_of_movies': 40}
+{'_id': {'director_name': 'John Ford'}, 'No_of_movies': 35}
+{'_id': {'director_name': 'Takashi Miike'}, 'No_of_movies': 34}
+{'_id': {'director_name': 'John Huston'}, 'No_of_movies': 34}
+{'_id': {'director_name': 'Werner Herzog'}, 'No_of_movies': 33}
+{'_id': {'director_name': 'Martin Scorsese'}, 'No_of_movies': 32}
+{'_id': {'director_name': 'Alfred Hitchcock'}, 'No_of_movies': 31}
+{'_id': {'director_name': 'Sidney Lumet'}, 'No_of_movies': 30}
+{'_id': {'director_name': 'Michael Apted'}, 'No_of_movies': 29}
+{'_id': {'director_name': 'Steven Spielberg'}, 'No_of_movies': 29}

@@ -1,0 +1,12 @@
+{'_id': {'year': 1983, 'month': 1}, 'comments': 79}
+{'_id': {'year': 1983, 'month': 2}, 'comments': 91}
+{'_id': {'year': 1983, 'month': 3}, 'comments': 96}
+{'_id': {'year': 1983, 'month': 4}, 'comments': 86}
+{'_id': {'year': 1983, 'month': 5}, 'comments': 78}
+{'_id': {'year': 1983, 'month': 6}, 'comments': 84}
+{'_id': {'year': 1983, 'month': 7}, 'comments': 101}
+{'_id': {'year': 1983, 'month': 8}, 'comments': 86}
+{'_id': {'year': 1983, 'month': 9}, 'comments': 87}
+{'_id': {'year': 1983, 'month': 10}, 'comments': 93}
+{'_id': {'year': 1983, 'month': 11}, 'comments': 103}
+{'_id': {'year': 1983, 'month': 12}, 'comments': 94}

@@ -1,0 +1,10 @@
+{'_id': 'Mace Tyrell', 'comments': 331}
+{'_id': 'Missandei', 'comments': 327}
+{'_id': 'The High Sparrow', 'comments': 315}
+{'_id': 'Sansa Stark', 'comments': 308}
+{'_id': 'Rodrik Cassel', 'comments': 305}
+{'_id': 'Robert Jordan', 'comments': 304}
+{'_id': 'Thoros of Myr', 'comments': 304}
+{'_id': 'Brienne of Tarth', 'comments': 302}
+{'_id': 'Catherine Romero', 'comments': 296}
+{'_id': 'Andrea Le', 'comments': 296}

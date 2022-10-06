@@ -1,0 +1,10 @@
+{'_id': {'director_name': 'Peter Jackson'}, 'No_of_movies': 7}
+{'_id': {'director_name': 'Hayao Miyazaki'}, 'No_of_movies': 7}
+{'_id': {'director_name': 'Mark Waters'}, 'No_of_movies': 6}
+{'_id': {'director_name': 'Takashi Miike'}, 'No_of_movies': 6}
+{'_id': {'director_name': 'Terry Gilliam'}, 'No_of_movies': 6}
+{'_id': {'director_name': 'Hark Tsui'}, 'No_of_movies': 6}
+{'_id': {'director_name': 'Tom Shadyac'}, 'No_of_movies': 5}
+{'_id': {'director_name': 'Chris Columbus'}, 'No_of_movies': 5}
+{'_id': {'director_name': 'Siu-Tung Ching'}, 'No_of_movies': 5}
+{'_id': {'director_name': 'Neil Jordan'}, 'No_of_movies': 5}
