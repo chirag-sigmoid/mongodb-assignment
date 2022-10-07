@@ -1,0 +1,659 @@
+[
+  {
+    "_id": "Drama",
+    "Movies": [
+      "Band of Brothers",
+      "The Shawshank Redemption",
+      "The Shawshank Redemption",
+      "The Godfather",
+      "The Decalogue",
+      "The Godfather: Part II",
+      "Pride and Prejudice",
+      "I, Claudius",
+      "The Marathon Family",
+      "Heart of a Dog"
+    ],
+    "IMDB_Rating": [
+      9.6,
+      9.3,
+      9.3,
+      9.2,
+      9.2,
+      9.1,
+      9.1,
+      9,
+      9,
+      9
+    ]
+  },
+  {
+    "_id": "Western",
+    "Movies": [
+      "The Good, the Bad and the Ugly",
+      "Lonesome Dove",
+      "Once Upon a Time in the West",
+      "Django Unchained",
+      "Django Unchained",
+      "The Wind",
+      "Unforgiven",
+      "The Ox-Bow Incident",
+      "High Noon",
+      "Rio Bravo"
+    ],
+    "IMDB_Rating": [
+      8.9,
+      8.8,
+      8.6,
+      8.5,
+      8.5,
+      8.4,
+      8.3,
+      8.1,
+      8.1,
+      8.1
+    ]
+  },
+  {
+    "_id": "Romance",
+    "Movies": [
+      "Pride and Prejudice",
+      "North & South",
+      "Andaz Apna Apna",
+      "Forrest Gump",
+      "The King of the Street Cleaners",
+      "The Girl with the Red Scarf",
+      "City Lights",
+      "Casablanca",
+      "Life Is Beautiful",
+      "Life Is Beautiful"
+    ],
+    "IMDB_Rating": [
+      9.1,
+      9,
+      8.8,
+      8.8,
+      8.7,
+      8.7,
+      8.6,
+      8.6,
+      8.6,
+      8.6
+    ]
+  },
+  {
+    "_id": "Crime",
+    "Movies": [
+      "The Shawshank Redemption",
+      "The Shawshank Redemption",
+      "The Godfather",
+      "The Godfather: Part II",
+      "The Dark Knight",
+      "Death Note",
+      "12 Angry Men",
+      "Pulp Fiction",
+      "Drishyam",
+      "Nayakan"
+    ],
+    "IMDB_Rating": [
+      9.3,
+      9.3,
+      9.2,
+      9.1,
+      9,
+      9,
+      8.9,
+      8.9,
+      8.9,
+      8.8
+    ]
+  },
+  {
+    "_id": "Documentary",
+    "Movies": [
+      "Planet Earth",
+      "The Civil War",
+      "The Civil War",
+      "A Brave Heart: The Lizzie Velasquez Story",
+      "Cosmos",
+      "The Real Miyagi",
+      "The Blue Planet",
+      "Life",
+      "Human Planet",
+      "Frozen Planet"
+    ],
+    "IMDB_Rating": [
+      9.5,
+      9.4,
+      9.4,
+      9.4,
+      9.3,
+      9.3,
+      9.2,
+      9.2,
+      9.2,
+      9.2
+    ]
+  },
+  {
+    "_id": "Music",
+    "Movies": [
+      "Prerokbe Ognja",
+      "Michael Jackson Live in Bucharest: The Dangerous Tour",
+      "Shining Night: A Portrait of Composer Morten Lauridsen",
+      "Sweet Micky for President",
+      "Concert for George",
+      "Michael Jackson: Thriller",
+      "Concert for George",
+      "Sigur R\u00e8s: Heima",
+      "Whiplash",
+      "Tom Petty and the Heartbreakers: Runnin' Down a Dream"
+    ],
+    "IMDB_Rating": [
+      9,
+      8.9,
+      8.8,
+      8.8,
+      8.7,
+      8.6,
+      8.6,
+      8.6,
+      8.6,
+      8.5
+    ]
+  },
+  {
+    "_id": "News",
+    "Movies": [
+      "Most Likely to Succeed",
+      "Sweet Micky for President",
+      "Life Is Sacred",
+      "The Culture High",
+      "SlingShot",
+      "Alive Inside",
+      "India's Daughter",
+      "Burma VJ: Reporter i et lukket land",
+      "Xianshi shi guoqu de weilai",
+      "Xianshi shi guoqu de weilai"
+    ],
+    "IMDB_Rating": [
+      8.9,
+      8.8,
+      8.5,
+      8.4,
+      8.2,
+      8.1,
+      8.1,
+      8,
+      7.9,
+      7.9
+    ]
+  },
+  {
+    "_id": "Mystery",
+    "Movies": [
+      "Inception",
+      "Smiley's People",
+      "Rear Window",
+      "Psycho",
+      "Se7en",
+      "State of Play",
+      "Prime Suspect",
+      "Memento",
+      "The Prestige",
+      "Prime Suspect 7: The Final Act"
+    ],
+    "IMDB_Rating": [
+      8.8,
+      8.7,
+      8.6,
+      8.6,
+      8.6,
+      8.6,
+      8.5,
+      8.5,
+      8.5,
+      8.5
+    ]
+  },
+  {
+    "_id": "Sport",
+    "Movies": [
+      "Baseball",
+      "Senna",
+      "Do You Believe in Miracles? The Story of the 1980 U.S. Hockey Team",
+      "Chakde! India",
+      "The Other Dream Team",
+      "First Ascent",
+      "Rocco and His Brothers",
+      "Raging Bull",
+      "Hoop Dreams",
+      "Hitman Hart: Wrestling with Shadows"
+    ],
+    "IMDB_Rating": [
+      9.1,
+      8.6,
+      8.4,
+      8.4,
+      8.4,
+      8.4,
+      8.3,
+      8.3,
+      8.3,
+      8.2
+    ]
+  },
+  {
+    "_id": "Horror",
+    "Movies": [
+      "Never Sleep Again: The Elm Street Legacy",
+      "Psycho",
+      "Michael Jackson: Thriller",
+      "The Ornate Lock",
+      "Alien",
+      "The Shining",
+      "Aliens",
+      "Diabolique",
+      "The Thing",
+      "Jekyll"
+    ],
+    "IMDB_Rating": [
+      8.7,
+      8.6,
+      8.6,
+      8.6,
+      8.5,
+      8.4,
+      8.4,
+      8.2,
+      8.2,
+      8.2
+    ]
+  },
+  {
+    "_id": "Short",
+    "Movies": [
+      "Rabbit and Deer",
+      "Night and Fog",
+      "Michael Jackson: Thriller",
+      "Assume the Position with Mr. Wuhl",
+      "Hole",
+      "The Man Who Planted Trees",
+      "Isle of Flowers",
+      "Presto",
+      "One Froggy Evening",
+      "La Jet\u00e8e"
+    ],
+    "IMDB_Rating": [
+      8.7,
+      8.6,
+      8.6,
+      8.6,
+      8.6,
+      8.5,
+      8.5,
+      8.5,
+      8.4,
+      8.4
+    ]
+  },
+  {
+    "_id": "Film-Noir",
+    "Movies": [
+      "Sunset Blvd.",
+      "Double Indemnity",
+      "The Third Man",
+      "The Maltese Falcon",
+      "White Heat",
+      "Ace in the Hole",
+      "Sweet Smell of Success",
+      "Touch of Evil",
+      "I Am a Fugitive from a Chain Gang",
+      "Laura"
+    ],
+    "IMDB_Rating": [
+      8.5,
+      8.4,
+      8.3,
+      8.2,
+      8.2,
+      8.2,
+      8.2,
+      8.2,
+      8.1,
+      8.1
+    ]
+  },
+  {
+    "_id": "Talk-Show",
+    "Movies": [
+      "The Late Shift"
+    ],
+    "IMDB_Rating": [
+      7
+    ]
+  },
+  {
+    "_id": "History",
+    "Movies": [
+      "Band of Brothers",
+      "The Civil War",
+      "The Civil War",
+      "The Real Miyagi",
+      "Hollywood",
+      "Baseball",
+      "I, Claudius",
+      "Schindler's List",
+      "From the Earth to the Moon",
+      "New York: A Documentary Film"
+    ],
+    "IMDB_Rating": [
+      9.6,
+      9.4,
+      9.4,
+      9.3,
+      9.1,
+      9.1,
+      9,
+      8.9,
+      8.9,
+      8.9
+    ]
+  },
+  {
+    "_id": "Adventure",
+    "Movies": [
+      "Over the Garden Wall",
+      "Who's Singin' Over There?",
+      "The Lord of the Rings: The Return of the King",
+      "Love is God",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Lonesome Dove",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "Vishwaroopam",
+      "Star Wars: Episode IV - A New Hope",
+      "The Lord of the Rings: The Two Towers"
+    ],
+    "IMDB_Rating": [
+      9.2,
+      8.9,
+      8.9,
+      8.9,
+      8.8,
+      8.8,
+      8.8,
+      8.8,
+      8.7,
+      8.7
+    ]
+  },
+  {
+    "_id": "Comedy",
+    "Movies": [
+      "Over the Garden Wall",
+      "The Marathon Family",
+      "Heart of a Dog",
+      "The Chaos Class Failed the Class",
+      "Who's Singin' Over There?",
+      "Balkan Spy",
+      "Love is God",
+      "Andaz Apna Apna",
+      "The Broken Landlord",
+      "George Carlin: Back in Town"
+    ],
+    "IMDB_Rating": [
+      9.2,
+      9,
+      9,
+      9,
+      8.9,
+      8.9,
+      8.9,
+      8.8,
+      8.8,
+      8.8
+    ]
+  },
+  {
+    "_id": "Animation",
+    "Movies": [
+      "Over the Garden Wall",
+      "Death Note",
+      "Rabbit and Deer",
+      "Spirited Away",
+      "Inside Out",
+      "Duck Amuck",
+      "The Man Who Planted Trees",
+      "Grave of the Fireflies",
+      "The Lion King",
+      "Grave of the Fireflies"
+    ],
+    "IMDB_Rating": [
+      9.2,
+      9,
+      8.7,
+      8.6,
+      8.6,
+      8.5,
+      8.5,
+      8.5,
+      8.5,
+      8.5
+    ]
+  },
+  {
+    "_id": "Musical",
+    "Movies": [
+      "Dr. Horrible's Sing-Along Blog",
+      "The Ornate Lock",
+      "Pennies from Heaven",
+      "Sweeney Todd: The Demon Barber of Fleet Street",
+      "Masoom",
+      "Jigarthanda",
+      "Singin' in the Rain",
+      "Athadu",
+      "Dilwale Dulhania Le Jayenge",
+      "Legally Blonde: The Musical"
+    ],
+    "IMDB_Rating": [
+      8.7,
+      8.6,
+      8.5,
+      8.5,
+      8.5,
+      8.5,
+      8.4,
+      8.4,
+      8.3,
+      8.3
+    ]
+  },
+  {
+    "_id": "Thriller",
+    "Movies": [
+      "Drishyam",
+      "Tinker Tailor Soldier Spy",
+      "Rear Window",
+      "Psycho",
+      "The Silence of the Lambs",
+      "L\u00e8on: The Professional",
+      "Se7en",
+      "The Usual Suspects",
+      "Liquidation",
+      "The Hole"
+    ],
+    "IMDB_Rating": [
+      8.9,
+      8.7,
+      8.6,
+      8.6,
+      8.6,
+      8.6,
+      8.6,
+      8.6,
+      8.6,
+      8.5
+    ]
+  },
+  {
+    "_id": "War",
+    "Movies": [
+      "The Civil War",
+      "The Civil War",
+      "The War",
+      "The Human Condition III: A Soldier's Prayer",
+      "The Fifth Seal",
+      "Father of a Soldier",
+      "Father of a Soldier",
+      "The Nazis: A Warning from History",
+      "Generation Kill",
+      "WWII in HD"
+    ],
+    "IMDB_Rating": [
+      9.4,
+      9.4,
+      9,
+      8.8,
+      8.8,
+      8.8,
+      8.7,
+      8.7,
+      8.7,
+      8.7
+    ]
+  },
+  {
+    "_id": "Biography",
+    "Movies": [
+      "A Brave Heart: The Lizzie Velasquez Story",
+      "Schindler's List",
+      "Shining Night: A Portrait of Composer Morten Lauridsen",
+      "Jesus of Nazareth",
+      "Goodfellas",
+      "John Adams",
+      "John Adams",
+      "Black Friday",
+      "Senna",
+      "The Intouchables"
+    ],
+    "IMDB_Rating": [
+      9.4,
+      8.9,
+      8.8,
+      8.7,
+      8.7,
+      8.7,
+      8.7,
+      8.6,
+      8.6,
+      8.6
+    ]
+  },
+  {
+    "_id": "Fantasy",
+    "Movies": [
+      "The Storyteller",
+      "The Lord of the Rings: The Return of the King",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "Star Wars: Episode IV - A New Hope",
+      "The Lord of the Rings: The Two Towers",
+      "It's a Wonderful Life",
+      "The Kingdom",
+      "The Green Mile",
+      "Hellsing Ultimate"
+    ],
+    "IMDB_Rating": [
+      8.9,
+      8.9,
+      8.8,
+      8.8,
+      8.7,
+      8.7,
+      8.6,
+      8.5,
+      8.5,
+      8.5
+    ]
+  },
+  {
+    "_id": "Sci-Fi",
+    "Movies": [
+      "Heart of a Dog",
+      "Inception",
+      "The Matrix",
+      "Interstellar",
+      "Dr. Horrible's Sing-Along Blog",
+      "Alien",
+      "Back to the Future",
+      "Terminator 2: Judgment Day",
+      "Lucia",
+      "A Clockwork Orange"
+    ],
+    "IMDB_Rating": [
+      9,
+      8.8,
+      8.7,
+      8.7,
+      8.7,
+      8.5,
+      8.5,
+      8.5,
+      8.5,
+      8.4
+    ]
+  },
+  {
+    "_id": "Family",
+    "Movies": [
+      "A Brave Heart: The Lizzie Velasquez Story",
+      "Andaz Apna Apna",
+      "It's a Wonderful Life",
+      "Spirited Away",
+      "Home",
+      "Twinsters",
+      "Gayby Baby",
+      "Duck Amuck",
+      "Masoom",
+      "Children of Heaven"
+    ],
+    "IMDB_Rating": [
+      9.4,
+      8.8,
+      8.6,
+      8.6,
+      8.6,
+      8.6,
+      8.6,
+      8.5,
+      8.5,
+      8.5
+    ]
+  },
+  {
+    "_id": "Action",
+    "Movies": [
+      "Band of Brothers",
+      "The Real Miyagi",
+      "The Dark Knight",
+      "From the Earth to the Moon",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Inception",
+      "Vishwaroopam",
+      "Harakiri",
+      "Star Wars: Episode IV - A New Hope",
+      "The Matrix"
+    ],
+    "IMDB_Rating": [
+      9.6,
+      9.3,
+      9,
+      8.9,
+      8.8,
+      8.8,
+      8.8,
+      8.7,
+      8.7,
+      8.7
+    ]
+  }
+]
