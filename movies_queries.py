@@ -1,4 +1,5 @@
 import pymongo
+from bson.json_util import dumps
 
 try:
     client = pymongo.MongoClient("mongodb://localhost:27017/")
@@ -186,3 +187,19 @@ def top_n_actors_with_max_movies_in_given_genre(n, genre):
 
 
 top_n_actors_with_max_movies_in_given_genre(10, "Crime")
+
+
+# Find top `N` movies for each genre with the highest IMDB rating
+def top_n_movies_each_genre_highest_imdb_rating(n):
+    output = db.movies.aggregate([{"$unwind":"$genres"},
+                                {"$match": {"imdb.rating": {"$exists": "true", "$ne": ''}}},
+                                {"$sort": {"imdb.rating": -1}},
+                                {"$group": {"_id": "$genres", "movie_name": {"$push":"$title"}, "imdb_rating":{"$push": "$imdb.rating"}}},
+                                {"$project": {"_id": 1, "Movies": {"$slice": ["$movie_name", n]}, "IMDB_Rating": {"$slice": ["$imdb_rating", n]}}}
+                                ])
+    listdata = list(output)
+    with open(f'queries_outputfiles/movies_queries/top_{n}_movies_each_genre_highest_imdb_rating.json', 'w') as f:
+        f.write(dumps(listdata, indent = 2))
+
+
+top_n_movies_each_genre_highest_imdb_rating(10)
